@@ -6,6 +6,6 @@ App.ModalView = Ember.View.extend({
   templateName: 'modal',
 
   closeModal: function() {
-    this.remove();
+    this.destroy();
   }
 });
