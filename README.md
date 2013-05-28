@@ -27,3 +27,7 @@ This has been tested with Ember.js v. 1.0.0-rc.3
             }
           }
         });
+
+# Acknowledgements
+[chenzihui](https://github.com/chenzihui/ember-simple-modal) for the inspiration  
+[stefanpenner](https://gist.github.com/stefanpenner/5627411) for the guidance on new Ember.js patterns
